@@ -1,0 +1,75 @@
+.App {
+    text-align: center;
+    }
+ .text{
+color: #cb9dff;
+font-size: 30px;
+font-weight: 700;
+}
+body{
+  background-image: url(C:\Users\ASWIN\Desktop\Quiz-app\app\public\pexels-ian-turnell-709552.jpg);
+  object-fit:contain;
+}
+  
+  .question-card {
+    margin: 0 auto;
+    width: 80%; 
+    height: 450px;
+    background-color: #85FFBD; opacity: 0.85;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+    padding: 16px;
+    border-radius: 20px;
+    color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+      rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    margin-top: 8px;
+    background: #614385;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #516395, #614385);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #516395, #614385); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 16px;
+    border: 3px solid white;
+    border-radius: 20px;
+    font-size: 20px;
+  }
+  
+  .question-text {
+    color: darkblue;
+    font-size: 24px;
+  }
+  
+  /* Final Results  */
+  
+  .final-results {
+    margin: 0 auto;
+    width: 50%; 
+    height: auto;
+    margin-top: 64px;
+    background-color: rgb(41, 169, 211);
+    padding: 16px;
+    border-radius: 16px;
+    color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+      rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+  }
+  
+  button {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+  
+    border-radius: 24px;
+  }
+  
