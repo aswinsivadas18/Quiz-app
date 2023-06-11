@@ -7,7 +7,7 @@ font-size: 30px;
 font-weight: 700;
 }
 body{
-  background-image: url(C:\Users\ASWIN\Desktop\Quiz-app\app\public\pexels-ian-turnell-709552.jpg);
+  background-image: url(../../public/pexels-ian-turnell-709552.jpg);
   object-fit:contain;
 }
   
